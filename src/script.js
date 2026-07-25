@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>Blessed</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Daniel Caesar </div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,15 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+happy 1 month jeyo.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+cant believe kita udah sebulan aja. thank u ya udah selalu sabar, selalu ada, selalu dengerin aku, and thank u for every little thing u do buat aku. mungkin keliatannya kecil, but it means a lot for me. being with u is one of my favorite things ever.
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+and im sorry ya kalo selama ini aku masih suka ngambek, kadang bete, overthink sama hal hal yang sebenernya ga penting, atau without realizing bikin mood kamu ikut berantakan. makasih udah selalu ngerti aku even when im not easy to understand. i'll try to be better, i promise.
 
-But like late night radio waves that stay playing even when the world sleeps.
+im really grateful i met u. semoga ini bukan cuma 1 month, but the first of many. semoga kita selalu bisa saling jagain, saling milih, and stay the same no matter how much time passes. thank u for loving me the way u do. im so lucky to have u, bebe. 🤍  
 
-END SIGNAL
+
 <span class="signal">END SIGNAL</span>
 
 </div>
